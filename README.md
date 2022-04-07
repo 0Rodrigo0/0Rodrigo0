@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Seja muito bem vindo! Obirgado por acessar.
+
+<a href="https://linkedin.com/in/rodrigo-blw" target="_blank"><img class="linkedin" src="https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/28/e1/8a/28e18ad4-87bb-ed4f-e75d-688639b43462/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/1200x600wa.png" alt="imagem linkedin"/></a>
+
+https://www.linkedin.com/in/rodrigo-blw/
+https://github.com/0Rodrigo0
 
 
 <!--
