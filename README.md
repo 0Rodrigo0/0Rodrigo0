@@ -2,7 +2,7 @@
 
 Seja muito bem vindo! Obirgado por acessar.
 
-<a href="https://linkedin.com/in/rodrigo-blw" target="_blank"><img class="linkedin" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" alt="imagem linkedin" height="10px"/></a>
+<a href="https://linkedin.com/in/rodrigo-blw" target="_blank"><img class="linkedin" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" alt="imagem linkedin" height="100px"/></a>
 
 https://www.linkedin.com/in/rodrigo-blw/
 https://github.com/0Rodrigo0
