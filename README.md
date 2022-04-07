@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<script>
+ border-radius: 50%;
+  border: 2px solid white;
+  box-shadow: 0 0 1em black;
+ </script>
  <header>
       <div class="cabecalho">
         <img
