@@ -6,7 +6,7 @@ Em construção...
 
 Voce pode acessar minhas redes:
 
-<a href="https://github.com/0rodrigo0" target="_blank"><img class="linkedin" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="imagem linkedin" height="50px"/>  &nbsp;  &nbsp; <a href="https://linkedin.com/in/rodrigo-blw" target="_blank"><img class="linkedin" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJizK-O7rjmwzro2mvul2xv-Uw1AuPEQajqA&usqp=CAU" height="46px" /></a></a>
+<a href="https://github.com/0rodrigo0" target="_blank"><img class="linkedin" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="imagem linkedin" height="50px"/>  &nbsp;  &nbsp; <a href="https://linkedin.com/in/rodrigo-blw" target="_blank"><img class="linkedin" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJizK-O7rjmwzro2mvul2xv-Uw1AuPEQajqA&usqp=CAU" height="47px" /></a></a>
 
 
 
