@@ -4,7 +4,7 @@ Seja muito bem vindo! Obirgado por acessar.
 
 <a href="https://linkedin.com/in/rodrigo-blw" target="_blank"><img class="linkedin" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" alt="imagem linkedin" height="100px"/></a>
 
-<a href="https://github.com/0rodrigo0" target="_blank"><img class="linkedin" src="https://thumbs.dreamstime.com/b/github-icon-filled-website-design-mobile-app-development-social-collection-isolated-black-background-155364515.jpg" alt="imagem linkedin" height="100px"/></a>
+<a href="https://github.com/0rodrigo0" target="_blank"><img class="linkedin" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN0Uu0auB-_30X62d-vUYM-jhN4TkqPqgv6A&usqp=CAU" alt="imagem linkedin" height="100px"/></a>
 
 
 
