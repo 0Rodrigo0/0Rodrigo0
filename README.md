@@ -2,7 +2,7 @@
 
 Seja muito bem vindo! Obirgado por acessar.
 
-<a href="https://linkedin.com/in/rodrigo-blw" target="_blank"><img class="linkedin" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" alt="imagem linkedin" height="75px" /><a href="https://github.com/0rodrigo0" target="_blank"><img class="linkedin" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="imagem linkedin" height="67px"/></a></a>
+<a href="https://linkedin.com/in/rodrigo-blw" target="_blank"><img class="linkedin" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" alt="imagem linkedin" height="75px" /> /p <a href="https://github.com/0rodrigo0" target="_blank"><img class="linkedin" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="imagem linkedin" height="67px"/></a></a>
 
 
 
