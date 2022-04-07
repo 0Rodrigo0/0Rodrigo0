@@ -1,6 +1,18 @@
 ### Hi there 👋
 
+<a href="https://linkedin.com/in/rodrigo-blw" target="_blank"
+            ><img class="linkedin" src="linkedin.svg" alt="imagem linkedin"
+          /></a>
 
+          <a href="https://github.com/0rodrigo0" target="_blank">
+            <img class="github" src="github.svg" alt="imagem github"
+          /></a>
+
+          <a
+            href="https://api.whatsapp.com/send?phone=5551984065069&text=Oi Rodrigo, tudo bem? Quero falar com você..."
+            class="button"
+            target="_blank"
+          >
 
 
 <!--
