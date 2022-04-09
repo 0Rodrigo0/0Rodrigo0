@@ -24,12 +24,10 @@ Estou focado em:
   <img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" alt="imagem spring" height="50rem"/> &nbsp; &nbsp;
   <img src="https://seeklogo.com/images/A/angular-logo-B76B1CDE98-seeklogo.com.png" alt="imagem angular" height="50rem"/>
 </div>
+
 ##
 
 Alguns dos trabalhos realizados estão aqui no meu Git.
-
-##
-
 Voce pode acessar minhas redes:
 
 <div>
