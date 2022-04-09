@@ -7,11 +7,11 @@ Sou o Rodrigo sou desenvolvedor Full Stack em formação. </br>
 Atualemnte aluno do Devin House, curso focado na formação rápida de desenvolvedores.
 Estou focado em:
 
-- Java 8;
+- Java;
 - JS;
-- PostgreSQL 14;
-- Spring Boot 2.6.6;
-- Angular.
+- PostgreSQL;
+- Spring Boot;
+- Angular;
 <div>
   <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="imagem java" height="50rem"/> &nbsp; &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/260px-Unofficial_JavaScript_logo_2.svg.png" alt="imagem js" height="50rem"/> &nbsp; &nbsp;
