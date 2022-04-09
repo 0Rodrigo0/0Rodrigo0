@@ -1,6 +1,4 @@
 ### Hi there 👋
-![Snake animation](https://github.com/0rodrigo0/0rodrigo0/blob/output/github-contribution-grid-snake.svg)
-
 ##
 
 Seja muito bem vindo! Obirgado por acessar.
@@ -33,6 +31,10 @@ Voce pode acessar minhas redes:
 
 
 
+  
+  ##
+  
+  ![Snake animation](https://github.com/0rodrigo0/0rodrigo0/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
