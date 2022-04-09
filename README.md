@@ -32,7 +32,7 @@ Voce pode acessar minhas redes:
 
 <div>
 <a href="https://github.com/0rodrigo0" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="imagem linkedin" height="50px"/></a> &nbsp; &nbsp;
-<a href="https://linkedin.com/in/rodrigo-blw" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJizK-O7rjmwzro2mvul2xv-Uw1AuPEQajqA&usqp=CAU" height="49px" /></a>
+<a href="https://linkedin.com/in/rodrigo-blw" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="49px" /></a>
 </div>
 
 Obirgado por acessar.
