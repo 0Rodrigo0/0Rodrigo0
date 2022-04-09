@@ -8,6 +8,7 @@ Estou focado em Java 8, PostgreSQL 13, Spring Boot 2.6.6 e futuramente Angular.
 Alguns dos trabalhos realizados estão aqui no meu Git.
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<i class="devicon-adonisjs-original"></i>
 
 
 Voce pode acessar minhas redes:
