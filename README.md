@@ -13,7 +13,7 @@ Estou focado em:
 - Spring Boot 2.6.6;
 - Angular.
 <div>
-<a target="_blank"><img src="https://cloudnesil.com/wp-content/uploads/2018/12/java8_logo.png" alt="imagem java" height="20rem"/></a>
+<a target="_blank"><img src="https://cloudnesil.com/wp-content/uploads/2018/12/java8_logo.png" alt="imagem java" height="100rem"/></a>
 
 </div>
 
