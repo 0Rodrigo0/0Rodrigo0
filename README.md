@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hi there, welcome 👋
 ##
-
-Seja muito bem vindo! Obirgado por acessar.
 
 Sou o Rodrigo sou desenvolvedor Full Stack em formação. </br>
 Atualemnte aluno do Devin House, curso focado na formação rápida de desenvolvedores.
@@ -15,7 +13,7 @@ Estou focado em:
 
 ##
 
-Tecnologias que utilizo:
+### Tecnologias que utilizo:
 
 <div>
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="imagem html" height="50rem"/> &nbsp; &nbsp;
@@ -36,6 +34,8 @@ Voce pode acessar minhas redes:
 <a href="https://github.com/0rodrigo0" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="imagem linkedin" height="50px"/></a> &nbsp; &nbsp;
 <a href="https://linkedin.com/in/rodrigo-blw" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJizK-O7rjmwzro2mvul2xv-Uw1AuPEQajqA&usqp=CAU" height="49px" /></a>
 </div>
+
+Obirgado por acessar.
 
 ##
 
