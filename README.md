@@ -35,8 +35,6 @@ Voce pode acessar minhas redes:
 <a href="https://linkedin.com/in/rodrigo-blw" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="49px" /></a>
 </div>
 
-Obirgado por acessar.
-
 ##
 
 <div>
