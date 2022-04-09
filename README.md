@@ -7,6 +7,9 @@ Atualemnte aluno do Devin House, curso focado na formação rápida de desenvolv
 Estou focado em Java 8, PostgreSQL 13, Spring Boot 2.6.6 e futuramente Angular.
 Alguns dos trabalhos realizados estão aqui no meu Git.
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+
 Voce pode acessar minhas redes:
 
 <a href="https://github.com/0rodrigo0" target="_blank"><img class="linkedin" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="imagem linkedin" height="50px"/>  &nbsp;  &nbsp; <a href="https://linkedin.com/in/rodrigo-blw" target="_blank"><img class="linkedin" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJizK-O7rjmwzro2mvul2xv-Uw1AuPEQajqA&usqp=CAU" height="49px" /></a></a>
