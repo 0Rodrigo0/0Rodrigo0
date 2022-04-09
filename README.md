@@ -1,7 +1,7 @@
 ### Hi there, welcome 👋
 ##
 
-Sou o Rodrigo sou desenvolvedor Full Stack em formação. </br>
+Sou o Rodrigo, desenvolvedor Full Stack em formação. </br>
 Atualemnte aluno do Devin House, curso focado na formação rápida de desenvolvedores. </br>
 Linguagens e Frameworks:
 
