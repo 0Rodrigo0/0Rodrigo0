@@ -18,13 +18,12 @@ Estou focado em:
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="imagem postgre" height="50rem"/> &nbsp; &nbsp;
   <img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" alt="imagem java" height="50rem"/> &nbsp; &nbsp;
   <img src="https://seeklogo.com/images/A/angular-logo-B76B1CDE98-seeklogo.com.png" alt="imagem java" height="50rem"/>
-
 </div>
+##
 
 Alguns dos trabalhos realizados estão aqui no meu Git.
 
-
-
+##
 
 Voce pode acessar minhas redes:
 
@@ -32,9 +31,6 @@ Voce pode acessar minhas redes:
 <a href="https://github.com/0rodrigo0" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="imagem linkedin" height="50px"/></a> &nbsp; &nbsp;
 <a href="https://linkedin.com/in/rodrigo-blw" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJizK-O7rjmwzro2mvul2xv-Uw1AuPEQajqA&usqp=CAU" height="49px" /></a>
 </div>
-
-
-
 
 ##
 
