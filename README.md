@@ -13,7 +13,9 @@ Estou focado em:
 - Spring Boot;
 - Angular;
 
-## Tecnologias que utilizo
+##
+
+Tecnologias que utilizo
 
 <div>
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="imagem html" height="50rem"/> &nbsp; &nbsp;
