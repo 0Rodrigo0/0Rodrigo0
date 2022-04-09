@@ -12,12 +12,17 @@ Estou focado em:
 - PostgreSQL;
 - Spring Boot;
 - Angular;
+
+## Tecnologias que utilizo
+
 <div>
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="imagem html" height="50rem"/> &nbsp; &nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="imagem css" height="50rem"/> &nbsp; &nbsp;
   <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="imagem java" height="50rem"/> &nbsp; &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/260px-Unofficial_JavaScript_logo_2.svg.png" alt="imagem js" height="50rem"/> &nbsp; &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="imagem postgre" height="50rem"/> &nbsp; &nbsp;
-  <img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" alt="imagem java" height="50rem"/> &nbsp; &nbsp;
-  <img src="https://seeklogo.com/images/A/angular-logo-B76B1CDE98-seeklogo.com.png" alt="imagem java" height="50rem"/>
+  <img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" alt="imagem spring" height="50rem"/> &nbsp; &nbsp;
+  <img src="https://seeklogo.com/images/A/angular-logo-B76B1CDE98-seeklogo.com.png" alt="imagem angular" height="50rem"/>
 </div>
 ##
 
