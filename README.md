@@ -17,7 +17,7 @@ Estou focado em:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/260px-Unofficial_JavaScript_logo_2.svg.png" alt="imagem js" height="50rem"/> &nbsp; &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="imagem postgre" height="50rem"/> &nbsp; &nbsp;
   <img src="https://programadoresbrasil.com.br/wp-content/uploads/2021/05/Spring-BOOT-Interview-questions-1.jpg" alt="imagem java" height="50rem"/> &nbsp; &nbsp;
-  <img src="https://i.pinimg.com/474x/a5/d8/1b/a5d81b1ac125b3ab9f70fa4eee6ae255.jpg" alt="imagem java" height="50rem"/>
+  <img src="https://seeklogo.com/images/A/angular-logo-B76B1CDE98-seeklogo.com.png" alt="imagem java" height="50rem"/>
 
 </div>
 
