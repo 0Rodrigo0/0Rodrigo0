@@ -27,7 +27,7 @@ Linguagens e Frameworks:
 
 ##
 
-Alguns dos trabalhos realizados estão aqui no meu Git.
+Alguns dos trabalhos realizados estão aqui no meu Git.</br>
 Voce pode acessar minhas redes:
 
 <div>
