@@ -5,7 +5,12 @@ Seja muito bem vindo! Obirgado por acessar.
 
 Sou o Rodrigo sou desenvolvedor Full Stack em formação. </br>
 Atualemnte aluno do Devin House, curso focado na formação rápida de desenvolvedores.
-Estou focado em Java 8, JS, PostgreSQL 14, Spring Boot 2.6.6 e em seguida Angular.
+Estou focado em:
+- Java 8;
+- JS;
+- PostgreSQL 14;
+- Spring Boot 2.6.6;
+- Angular.
 Alguns dos trabalhos realizados estão aqui no meu Git.
 
 
