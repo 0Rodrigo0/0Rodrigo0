@@ -3,7 +3,7 @@
 
 Sou o Rodrigo sou desenvolvedor Full Stack em formação. </br>
 Atualemnte aluno do Devin House, curso focado na formação rápida de desenvolvedores. </br>
-Linguagem e Frameworks:
+Linguagens e Frameworks:
 
 - Java;
 - JS;
