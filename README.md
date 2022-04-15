@@ -48,7 +48,7 @@ Voce pode acessar minhas redes:
 <a href="https://github.com/0rodrig0">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0rodrigo0&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0rodrigo0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://camo.githubusercontent.com/c89ff16c2533a33e6692f62845c62b5ede356123194394a53a1770d793bba6b6/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d70657465722d6b696d616e7a6926" alt="peter-kimanzi" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=0rodrigo0&amp;">
+ <img height="180em" src="https://camo.githubusercontent.com/c89ff16c2533a33e6692f62845c62b5ede356123194394a53a1770d793bba6b6/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d70657465722d6b696d616e7a6926" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=0rodrigo0;">
 </div>
 
 
