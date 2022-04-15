@@ -10,7 +10,7 @@ Linguagens e Frameworks:
     - Java;</br>
     - JS;</br>
     - PostgreSQL;</br>
-    - Spring Boot;</br>
+    - Spring Boot;
     - Angular;
     <img src="https://camo.githubusercontent.com/87964902dd9aabbca6dd6ee0df344e2006764db7d619d6221f594c22ace6e4d6/68747470733a2f2f7669736d652e636f2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031392f31302f616e696d617465642d70726573656e746174696f6e2d736f6674776172652d6865616465722e676966" alt="MasterHead" data-canonical-src="https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif" style="width: 50%; position: relative; display: flex; ">
   </div>
