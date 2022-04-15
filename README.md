@@ -6,7 +6,7 @@ Atualemnte aluno do Devin House, curso focado na formação rápida de desenvolv
 Linguagens e Frameworks:
 
 
-  <div class="position-relative" style="position: relative;">
+  <div style="position: relative;">
     - Java;</br>
     - JS;</br>
     - PostgreSQL;</br>
