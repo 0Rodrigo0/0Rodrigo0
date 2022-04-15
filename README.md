@@ -7,6 +7,11 @@ Linguagens e Frameworks:
 
 
   <div> 
+  <p></p>
+  <p></p>
+  <p></p>
+  <p>- Spring Boot;</p>
+  <p> - Angular;</p>
     - Java;</br>
     - JS;</br>
     - PostgreSQL;</br>
