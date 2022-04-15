@@ -6,12 +6,7 @@ Atualemnte aluno do Devin House, curso focado na formação rápida de desenvolv
 Linguagens e Frameworks:
 
 
-  <div> 
-  <p></p>
-  <p></p>
-  <p></p>
-  <p>- Spring Boot;</p>
-  <p> - Angular;</p>
+  <div>
     - Java;</br>
     - JS;</br>
     - PostgreSQL;</br>
