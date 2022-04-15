@@ -6,7 +6,7 @@ Atualemnte aluno do Devin House, curso focado na formação rápida de desenvolv
 Linguagens e Frameworks:
 
 
-  <div style="allign-itens: left">
+  <div script="allign-itens: left">
     - Java;
     - JS;
     - PostgreSQL;
