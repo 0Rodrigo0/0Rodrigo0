@@ -51,13 +51,6 @@ Voce pode acessar minhas redes:
 </div>
 
 
-
-  
-  ##
-  
-  ![Snake animation](https://github.com/0rodrigo0/0rodrigo0/blob/output/github-contribution-grid-snake.svg)
-
-
 <!--
 **0Rodrigo0/0Rodrigo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
