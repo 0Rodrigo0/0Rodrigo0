@@ -1,4 +1,4 @@
- <img src="https://camo.githubusercontent.com/87964902dd9aabbca6dd6ee0df344e2006764db7d619d6221f594c22ace6e4d6/68747470733a2f2f7669736d652e636f2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031392f31302f616e696d617465642d70726573656e746174696f6e2d736f6674776172652d6865616465722e676966" alt="MasterHead" data-canonical-src="https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif" style="width: 30%;">
+ <img src="https://camo.githubusercontent.com/87964902dd9aabbca6dd6ee0df344e2006764db7d619d6221f594c22ace6e4d6/68747470733a2f2f7669736d652e636f2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031392f31302f616e696d617465642d70726573656e746174696f6e2d736f6674776172652d6865616465722e676966" alt="MasterHead" data-canonical-src="https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif" style="width: 40%;">
 
 ### Hi there, welcome 👋
 ##
@@ -48,7 +48,6 @@ Voce pode acessar minhas redes:
 <a href="https://github.com/0rodrig0">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0rodrigo0&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0rodrigo0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://camo.githubusercontent.com/c89ff16c2533a33e6692f62845c62b5ede356123194394a53a1770d793bba6b6/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d70657465722d6b696d616e7a6926" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=0rodrigo0;">
 </div>
 
 
