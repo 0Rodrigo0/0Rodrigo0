@@ -30,7 +30,7 @@ Linguagens e Frameworks:
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="imagem postgre" height="50rem"/> &nbsp;
   <img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" alt="imagem spring" height="50rem"/> &nbsp; 
   <img src="https://seeklogo.com/images/A/angular-logo-B76B1CDE98-seeklogo.com.png" alt="imagem angular" height="50rem"/>
- <img src="https://download.logo.wine/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.png" alt="imagem bootstrap" height="50rem"/>
+ <img src="https://raw.githubusercontent.com/themedotid/bootstrap-icon-css/master/docs/bootstrap-icon-css.png" alt="imagem bootstrap" height="50rem"/>
 
 </div>
 
