@@ -4,7 +4,7 @@
 ##
 
 Sou o Rodrigo, desenvolvedor Full Stack Jr. </br>
-Atualemnte aluno do Devin House, curso focado na formação rápida de desenvolvedores. </br>
+
 Linguagens e Frameworks:
 
 
