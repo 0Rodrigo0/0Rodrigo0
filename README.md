@@ -3,7 +3,7 @@
 ### Hi there, welcome 👋
 ##
 
-Sou o Rodrigo, desenvolvedor Full Stack Jr. </br>
+Desenvolvedor Full Stack Jr. </br>
 
 Linguagens e Frameworks:
 
